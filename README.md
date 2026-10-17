@@ -89,7 +89,3 @@ Copy `backend/.env.example` and `frontend/.env.example`, then fill in MongoDB UR
 5. Tech stack matching
 7. Search & filters
 8. Dashboard
-
-## License
-
-MIT
