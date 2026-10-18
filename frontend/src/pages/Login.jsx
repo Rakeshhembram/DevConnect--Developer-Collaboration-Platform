@@ -73,7 +73,7 @@ export default function Login() {
           value={values.email}
           onChange={handleChange}
           error={errors.email}
-          placeholder="you@example.com"
+          placeholder="xrakeshhembram001@gmail.com"
         />
         <Input
           label="Password"
@@ -84,7 +84,7 @@ export default function Login() {
           value={values.password}
           onChange={handleChange}
           error={errors.password}
-          placeholder="••••••••"
+          placeholder="**********"
         />
         <Button type="submit" className="w-full" loading={loading}>
           Log in
