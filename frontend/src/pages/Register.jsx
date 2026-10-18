@@ -84,7 +84,7 @@ export default function Register() {
           value={values.name}
           onChange={handleChange}
           error={errors.name}
-          placeholder="Jane Doe"
+          placeholder="Rakesh Hembram"
         />
         <Input
           label="Username"
@@ -93,7 +93,7 @@ export default function Register() {
           value={values.username}
           onChange={handleChange}
           error={errors.username}
-          placeholder="janedev"
+          placeholder="rakeshhembram"
         />
         <Input
           label="Email"
@@ -103,7 +103,7 @@ export default function Register() {
           value={values.email}
           onChange={handleChange}
           error={errors.email}
-          placeholder="you@example.com"
+          placeholder="xrakeshhembram001@gmail.com"
         />
         <Input
           label="Password"
